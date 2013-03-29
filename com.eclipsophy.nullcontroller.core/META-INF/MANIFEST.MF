@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Core
+Bundle-SymbolicName: com.eclipsophy.nullcontroller.core
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.eclipsophy.nullcontroller.core.Activator
+Bundle-Vendor: FOLD1
+Require-Bundle: org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ActivationPolicy: lazy
+Export-Package: com.eclipsophy.nullcontroller.core.controller
